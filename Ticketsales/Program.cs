@@ -199,6 +199,7 @@ namespace Ticketsales
 
         void Quit()
         {
+            Sum();
             Environment.Exit(0);
         }
 
