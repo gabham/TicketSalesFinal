@@ -1,6 +1,0 @@
-
-Name: gabriel, Age: 17, Price: 25kr
-Name: gabriel, Age: 17, Price: 25kr
-Name: louise, Age: 15, Price: 25kr
-Name: gabriel, Age: 17, Price: 25kr
-Name: joppe, Age: 12, Price: 25kr

@@ -1,0 +1,11 @@
+C:\Users\Gabriel\source\repos\Ticketsales\Ticketsales\bin\Debug\netcoreapp3.0\Ticketsales.exe
+C:\Users\Gabriel\source\repos\Ticketsales\Ticketsales\bin\Debug\netcoreapp3.0\Ticketsales.deps.json
+C:\Users\Gabriel\source\repos\Ticketsales\Ticketsales\bin\Debug\netcoreapp3.0\Ticketsales.runtimeconfig.json
+C:\Users\Gabriel\source\repos\Ticketsales\Ticketsales\bin\Debug\netcoreapp3.0\Ticketsales.runtimeconfig.dev.json
+C:\Users\Gabriel\source\repos\Ticketsales\Ticketsales\bin\Debug\netcoreapp3.0\Ticketsales.dll
+C:\Users\Gabriel\source\repos\Ticketsales\Ticketsales\bin\Debug\netcoreapp3.0\Ticketsales.pdb
+C:\Users\Gabriel\source\repos\Ticketsales\Ticketsales\obj\Debug\netcoreapp3.0\Ticketsales.csprojAssemblyReference.cache
+C:\Users\Gabriel\source\repos\Ticketsales\Ticketsales\obj\Debug\netcoreapp3.0\Ticketsales.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\Ticketsales\Ticketsales\obj\Debug\netcoreapp3.0\Ticketsales.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\Ticketsales\Ticketsales\obj\Debug\netcoreapp3.0\Ticketsales.dll
+C:\Users\Gabriel\source\repos\Ticketsales\Ticketsales\obj\Debug\netcoreapp3.0\Ticketsales.pdb
